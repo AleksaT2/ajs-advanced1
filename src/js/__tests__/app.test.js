@@ -13,3 +13,4 @@ test('orderByProps function with initial props', () => {
     { key: 'defence', value: 40 },
     { key: 'health', value: 10 }]);
 });
+
